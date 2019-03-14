@@ -42,7 +42,7 @@ class App extends Component {
       )
     })
 
-    return (<div className="container-fluid"  >
+    return (<div className="container"  >
       <div className="row">
         {a}
       </div>
